@@ -1,0 +1,2 @@
+D:\Projetos Visual Studio 2019\openCVProject\x64\Debug\openCVProject.exe
+D:\Projetos Visual Studio 2019\openCVProject\x64\Debug\openCVProject.pdb
